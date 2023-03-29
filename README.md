@@ -11,7 +11,7 @@ Features:
 To install MemSQL, first make sure you have Go installed on your system. Then run the following command:
 
 ```
-go get github.com/yourusername/memsql
+go get github.com/hyperioxx/memsql
 ```
 This will install MemSQL into your $GOPATH.
 
